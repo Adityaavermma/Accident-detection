@@ -160,7 +160,7 @@ while(True):
         picam2.stop()
         send_telegram(file_name)
 
-        send_sms("+919991888254", "Hello Your Vehicle in a car crash, SOS "+getLocationUrl())
+        send_sms("", "Hello Your Vehicle in a car crash, SOS "+getLocationUrl())
 
 
 
