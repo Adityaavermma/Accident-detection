@@ -20,8 +20,8 @@ else:
 
 capture = False
 
-BOT_TOKEN = "8754216283:AAEG-FP3W1eZw_tWzA5NcHcz0JYJS7ig-1o"
-CHAT_ID = "1376420602"
+BOT_TOKEN = ""
+CHAT_ID = ""
 
 
 def send_telegram(filename):
